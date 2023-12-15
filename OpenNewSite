@@ -1,0 +1,3 @@
+function openGoogleInNewTab() {
+  window.open('https://your.website.com', '_blank');
+}
